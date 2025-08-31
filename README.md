@@ -30,6 +30,9 @@ src/hooks/
 ### 🔹 Performance & Optimization
 7. `useDebounce` – Debounces a callback function.
 8. `useThrottle` – Throttle a callback function.
+9. `useTimeout` – Timeout-based logic.
+10. `useInterval` – Interval-based logic.
+
 
 <!-- ### 🔹 Form & Input Handling
 1. `useForm` – Manage complex forms.
@@ -74,8 +77,6 @@ src/hooks/
 40. `useDocumentTitle` – Set page title.
 
 ### 🔹 Performance & Optimization
-43. `useTimeout` – Timeout-based logic.
-44. `useInterval` – Interval-based logic.
 45. `useRerender` – Force component re-render.
 46. `useStableCallback` – Stable callback identity.
 47. `useAsync` – Handle async functions.
