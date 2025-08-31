@@ -20,18 +20,19 @@ src/hooks/
 
 ### 🔹 State & Logic Utilities
 
-1. `useClipboard` – Manage clipboard operations.
-2. `useCounter` – Manages a counter state.
-3. `useToggle` – Manage toggle state.
-4. `usePrevious` – Manage previous value of a state or prop.
-5. `useLocalStorage` – Manage local storage values.
-6. `useSessionStorage` – Manage session storage values.
+* `useClipboard` – Manage clipboard operations.
+* `useCounter` – Manages a counter state.
+* `useToggle` – Manage toggle state.
+* `usePrevious` – Manage previous value of a state or prop.
+* `useLocalStorage` – Manage local storage values.
+* `useSessionStorage` – Manage session storage values.
+* `usePagination` – Pagination helpers.
 
 ### 🔹 Performance & Optimization
-7. `useDebounce` – Debounces a callback function.
-8. `useThrottle` – Throttle a callback function.
-9. `useTimeout` – Timeout-based logic.
-10. `useInterval` – Interval-based logic.
+* `useDebounce` – Debounces a callback function.
+* `useThrottle` – Throttle a callback function.
+* `useTimeout` – Timeout-based logic.
+* `useInterval` – Interval-based logic.
 
 
 <!-- ### 🔹 Form & Input Handling
@@ -49,7 +50,6 @@ src/hooks/
 ### 🔹 State & Logic Utilities
 17. `useDarkMode` – Dark mode toggle with persistence.
 18. `useStep` – Step-based wizard navigation.
-19. `usePagination` – Pagination helpers.
 20. `useQueue` – FIFO/LIFO queue management.
 
 ### 🔹 Data Fetching & API
