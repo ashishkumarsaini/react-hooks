@@ -29,11 +29,15 @@ src/hooks/
 * `usePagination` – Pagination helpers.
 
 ### 🔹 Performance & Optimization
+
 * `useDebounce` – Debounces a callback function.
 * `useThrottle` – Throttle a callback function.
 * `useTimeout` – Timeout-based logic.
 * `useInterval` – Interval-based logic.
 
+🔹 Data Fetching & API
+
+* `useFetch` – Fetch API wrapper.
 
 <!-- ### 🔹 Form & Input Handling
 1. `useForm` – Manage complex forms.
@@ -84,15 +88,15 @@ src/hooks/
 49. `useMemoCompare` – Compare memo dependencies.
 50. `useShallowCompareEffect` – Effect with shallow compare. -->
 
----
 
 ## 📌 Contribution
+
 Feel free to:
 - Open PRs to add missing hook implementations.
 - Suggest improvements to existing hooks.
 - Share your own custom hooks.
 
----
 
 ## 📜 License
+
 MIT License – Free to use and modify.
